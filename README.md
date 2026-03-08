@@ -17,25 +17,3 @@ This repository contains a collection of **NumPy operations** on **1D, 2D, and 3
 ```bash
 pip install numpy
 
-3.Open the Jupyter Notebook file (.ipynb) in Jupyter Notebook or JupyterLab.
-
-Usage
-
-Explore arrays of different dimensions (1D, 2D, 3D)
-
-Learn and practice various NumPy operations
-
-Use this notebook as a reference for your Python projects
-
-File Structure
-numpy_array_operations/
-│
-├── NumPy_Operations.ipynb   # Jupyter Notebook with all array operations
-├── README.md                # This file
-Contributing
-
-Feel free to fork the repository and add more examples or explanations!
-
-License
-
-This project is open-source and free to use.
